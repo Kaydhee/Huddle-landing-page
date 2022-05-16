@@ -170,7 +170,7 @@ img {
 
 @media(max-width: 375px) {
     .container {
-        margin-left: -1rem;
+        margin-left: -.9rem;
     }
 
     .header_col {
@@ -188,7 +188,7 @@ img {
     }
 
     .header_col img {
-        width: 200px;
+        width: 300px;
     }
 }
 
@@ -262,6 +262,7 @@ img {
 @media(max-width: 375px) {
     .section {
         width: 90%;
+        margin: 5% auto;
     }
     .section img {
         width: 200px;
@@ -481,15 +482,15 @@ footer .copyright {
     }
 
     .footer .footer_col_3 {
-        margin-left: -1rem;
+        margin-left: 1rem;
     }
 
     .footer_col_1 ul li a {
-        margin-left: -7rem;
+        margin-left: -7.5rem;
     }
 
     footer .copyright {
-        margin-left: 4rem;
+        margin-left: 6rem;
         font-size: .66em;
     }
 }
